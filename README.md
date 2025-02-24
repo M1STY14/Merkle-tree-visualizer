@@ -1,7 +1,7 @@
 # Merkle tree visualizer
 An interactive tool for creating, visualizing, and exploring Merkle Trees using Python and PySide6.
 
-Description:<\br>
+Description:<br/>
 This Merkle tree visualizer is an educational tool that allows users to create, modify, and visualize Merkle Trees through an intuitive graphical interface. Built with Python and leveraging PySide6 for the GUI and Matplotlib for visualization, this application provides a hands-on way to understand the structure and properties of Merkle Trees.
 
 Features:
