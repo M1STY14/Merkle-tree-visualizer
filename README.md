@@ -21,7 +21,7 @@ Technical Details:<br/>
 How it works:<br/>
   Data input: Users can manually add or load data blocks from a JSON file. To load data press File > Load Tree<br/>
   Tree construction: The application constructs the Merkle Tree using SHA-256 hashing.<br/>
-  Visualization: The tree is rendered using Matplotlib, with nodes showing data and partial hashes.
+  Visualization: The tree is rendered using Matplotlib, with nodes showing data and partial hashes.<br/>
   Interaction: Users can add/remove data, triggering automatic tree reconstruction and visualization updates. Adding data requires the user to input a data block(example: "Leo") which will be added to the tree. Removing data requires the user to input the data block he wishes to remove(example: "Leo")<br/>
   Explanation mode: Step through the tree construction process with highlighted nodes and descriptive text. To enable explanation mode pressing on the "Explain" button is required.<br/>
 
